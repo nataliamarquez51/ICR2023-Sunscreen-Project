@@ -7,5 +7,5 @@ Open the file using Arduino.ide. Verify and upload the software onto your Arduin
 ## The Sensor
 The sensor will then detect the current UV Index and return the values.
 ## To Plot
-In the top right corner, there is a serial plotter that will plot all values that come in, including those
+In the top right corner of Arduino.ide, there is a serial plotter that will plot all values that come in, including those
 that are not meant to be recorded. Use this carefully.
