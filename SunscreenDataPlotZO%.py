@@ -6,7 +6,7 @@ plt.scatter(a, b)
 
 c = [1.1, 7.3, 5.8, 12.9, 5.7, 6.2, 9.0, 6.9]
 
-plt.errorbar(a, b, yerr=c, fmt="o")
+plt.errorbar(a, b, yerr=c, fmt="o", color = 'black')
 
 plt.xlabel('Concentration (%)')
 plt.ylabel('Average Amount of UV Blocked (%)')
