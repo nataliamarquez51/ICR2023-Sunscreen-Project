@@ -12,5 +12,5 @@ plt.errorbar(commercial, effectiveness, yerr=c, fmt="o", color = 'black')
 
 plt.xlabel('Concentration (%)')
 plt.ylabel('Average Amount of UV Blocked (mV)')
-plt.title('The Effect of Concentration on Effectiveness')
+plt.title('The Effectiveness of Commercial Sunscreen')
 plt.show()
