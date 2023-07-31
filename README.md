@@ -1,5 +1,5 @@
-# ICR2023-Sunscreen-Project
-ICR 2023 project in which sunscreen was tested to determine the effectiveness of active ingredients.
+# Sunscreen-Project
+A project in which sunscreen was tested to determine the effectiveness of active ingredients and compare it to commercial sunscreens.
 ## Arduino.ide
 Download Arduino.ide on https://www.arduino.cc/en/software. The recommended version for this code is 2.1.1
 ## Running the Code
