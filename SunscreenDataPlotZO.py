@@ -10,5 +10,5 @@ plt.errorbar(a, b, yerr=c, fmt="o", color = 'black')
 
 plt.xlabel('Concentration (%)')
 plt.ylabel('Average Amount of UV Blocked (%)')
-plt.title('The Effect of Concentration on Effectiveness')
+plt.title('The Effect of Concentration on the Amount of UVR Blocked')
 plt.savefig('SunscreenDataPlotZO.png')
