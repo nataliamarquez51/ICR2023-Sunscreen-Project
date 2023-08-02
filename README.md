@@ -15,19 +15,30 @@ To conduct the experiment, all equipment was taken outside. A base reading was r
 The 4 python files each with SunscreenDataPlot in the title plot different values. Those that are current in the file are those that were aquired in our experiment. In order to run the files use:
 python3 filename
 in the terminal. For example, to run and save 25ZOvsCommercialPlot.py as a png, enter
+
 cd SunscreenProject
+
 cd Plots
+
 git pull
+
 cd
+
 python3 25ZOvsCommercialPlot.py
+
 This will save the corresponding plot to your computer: 25ZOvsCommercialPlot.png
 
 ## The Presentations and Paper
 Both the presentations and paper are .tex files. 3 style files are needed for the side presentation: beamercolorthemeshark.sty, beamerinnerthemechamgered.sty, and beamerouterthemewuerzburg.sty. These 3 style files and side presentation are in the directory. In order to access and run the side project presentation type these 5 commands into the terminal:
+
 cd SunscreenProject
+
 cd SidePresentation
+
 git pull
+
 cd
+
 pdflatex SideProjectCPresentation
 To run the paper, type these commands into the terminal:
 cd SunscreenProject
