@@ -23,9 +23,15 @@ python3 25ZOvsCommercialPlot.py
 This will save the corresponding plot to your computer: 25ZOvsCommercialPlot.png
 
 ## The Presentations and Paper
-Both the presentations and paper are .tex files. 3 style files are needed for the side presentation: beamercolorthemeshark.sty, beamerinnerthemechamgered.sty, and beamerouterthemewuerzburg.sty. These 3 style files and side presentation are in the directory. In order to access and run these files type these 3 commands into the terminal:
+Both the presentations and paper are .tex files. 3 style files are needed for the side presentation: beamercolorthemeshark.sty, beamerinnerthemechamgered.sty, and beamerouterthemewuerzburg.sty. These 3 style files and side presentation are in the directory. In order to access and run the side project presentation type these 5 commands into the terminal:
 cd SunscreenProject
 cd SidePresentation
 git pull
 cd
 pdflatex SideProjectCPresentation
+To run the paper, type these commands into the terminal:
+cd SunscreenProject
+cd Paper
+git pull
+cd
+pdflatex Paper
