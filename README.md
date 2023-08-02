@@ -17,3 +17,6 @@ python3 filename
 in the terminal. For example, to run and save 25ZOvsCommercialPlot.py as a png, enter
 python3 25ZOvsCommercialPlot.py
 This will save the corresponding plot to your computer: 25ZOvsCommercialPlot.png
+
+## The Presentations and Paper
+Both the presentations and paper are .tex files. 3 style files are needed for the main presentation: beamercolorthemeshark.sty, beamerinnerthemechamgered.sty, and beamerouterthemewuerzburg.sty.
