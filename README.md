@@ -30,10 +30,15 @@ This will save the corresponding plot to your computer: 25ZOvsCommercialPlot.png
 
 ## The Presentations and Paper
 Both the presentations and paper are .tex files, they all require images in the Images directory:
+
 cd SunscreenProject
+
 cd Images
+
 git pull
+
 cd
+
 The above commands should provide these files for you. Make sure they are in the same location as the .tex files and also where the files can be seen by your favorite code editor. 3 style files are needed for the side presentation: beamercolorthemeshark.sty, beamerinnerthemechamgered.sty, and beamerouterthemewuerzburg.sty. These 3 style files and side presentation are in the directory. In order to access and run the side project presentation type these 5 commands into the terminal:
 
 cd SunscreenProject
