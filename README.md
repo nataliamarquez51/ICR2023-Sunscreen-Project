@@ -41,8 +41,13 @@ cd
 
 pdflatex SideProjectCPresentation
 To run the paper, type these commands into the terminal:
+
 cd SunscreenProject
+
 cd Paper
+
 git pull
+
 cd
+
 pdflatex Paper
