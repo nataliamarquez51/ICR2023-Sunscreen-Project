@@ -50,6 +50,7 @@ git pull
 cd
 
 pdflatex SideProjectCPresentation
+
 To run the paper, type these commands into the terminal:
 
 cd SunscreenProject
@@ -61,3 +62,15 @@ git pull
 cd
 
 pdflatex Paper
+
+To run the Main Presentation, type these commands into the terminal:
+
+cd SunscreenProject
+
+cd SidePresentation
+
+git pull
+
+cd
+
+pdflatex Presentation
